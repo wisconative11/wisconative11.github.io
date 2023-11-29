@@ -1,0 +1,29 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: lightgray;
+}
+
+h1 {
+ color: purple;
+ text-align: center;
+}
+
+table {
+  margin: 20px auto;
+  border: 2px solid purple;
+}
+
+th, td {
+  border-top: 1px solid purple;
+}
+
+.col {
+  border: 1px solid purple;
+}
+
+.backgroundcolor {
+  background-color: plum;
+}
